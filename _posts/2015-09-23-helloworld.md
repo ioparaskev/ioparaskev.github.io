@@ -3,7 +3,6 @@ layout: post
 title: "Hello World"
 categories: intro
 date: 23-09-2015 22:00:00
-featured_image: /images/cover.jpg
 ---
 Let's see how this goes...
 
