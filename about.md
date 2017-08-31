@@ -9,11 +9,14 @@ Just another guy with an attitude who likes to rant about stuff
 ### More Information
 
 - Software Engineer
-- Python Zen Monk 
+- Python Zen Monk
+- Functional Disciple
 - Design Patterns Scholar 
 - Clean Code Evangelist 
-- Unix Beard Grower 
+- Unix Beard Grower
+- Underwater Inhabitant
 - Chessboard Owl
+
 
 ### Contact me
 Mail: **`ioparaskev [at] gmail [dot] com`**
